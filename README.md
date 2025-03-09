@@ -1,14 +1,16 @@
-# Python API For JMComic (禁漫天堂)
+</br>
+<h3 class="heading-element" style="font-size:1.25em;font-weight:var(--base-text-weight-semibold, 600);color:#1F2328;font-family:-apple-system, BlinkMacSystemFont, &quot;background-color:#FFFFFF;">
+	<a href="https://ma.mbd.baidu.com/1iib1ebUDio">👉👉👉♥♥点我进入♥观看入口一👈👈👈</a>
+</br>
 
-本项目封装了一套可用于爬取JM的Python API.
+</br>
 
-你可以通过简单的几行Python代码，实现下载JM上的本子到本地，并且是处理好的图片。
-
-[【指路】教程：使用GitHub Actions下载禁漫本子](./assets/docs/sources/tutorial/1_github_actions.md)
-
-[【指路】教程：导出并下载你的禁漫收藏夹数据](./assets/docs/sources/tutorial/10_export_favorites.md)
-
-**友情提示：珍爱JM，为了减轻JM的服务器压力，请不要一次性爬取太多本子，西门🙏🙏🙏**.
+   <a href="https://mr.mbd.baidu.com/1iib1ebUDio">👉👉👉♥♥点我进入♥备用入口二👈👈👈</a>
+</h3>
+</br>
+</br>
+</br>
+</br>
 
 ## 项目介绍
 
