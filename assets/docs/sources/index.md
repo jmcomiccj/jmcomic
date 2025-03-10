@@ -10,7 +10,33 @@ TUBE8首页
 >## [👉👉👉♥♥点我进入♥观看入口一👈👈👈](https://mr.mbd.baidu.com/1iib1ebUDio)
 > ## [👉👉👉♥♥点我进入♥备用入口二👈👈👈](https://mr.mbd.baidu.com/1iib1ebUDio)
 
-
+<div class="page-title" title="隐藏地址发布">隐藏平台地址发布</div>
+        <div class="box">
+            <div class="article-content" style="margin-bottom: -50px;">
+                <h2 id="siteurl" style="margin-bottom: 60px;"><a href="#siteurl">隐藏地址发布页</a></h2>
+		<ul class="speedlist">
+			<p class="popup-domain">
+				<a href="https://www.ddzszx.com" target="_blank" class="mdui-shadow-3"><strong>【主站地址一】www.ddzszx.com</strong></a>
+				<span class="ms1" id="lineMs0">测速中</span>
+			</p> 
+		</ul>
+		<ul class="speedlist">
+			<p class="popup-domain">
+				<a href="https://www.wsdwx88.com" target="_blank" class="mdui-shadow-3"><strong>【主站地址二】	www.wsdwx88.com</strong></a>
+				<span class="ms1" id="lineMs1">测速中</span>
+			</p> 
+		</ul>
+		<ul class="speedlist">
+			<p class="popup-domain">
+				<a href="https://www.w20029.com" target="_blank" class="mdui-shadow-3"><strong>【主站地址三】	www.w20029.com</strong></a>
+				<span class="ms1" id="lineMs2">测速中</span>
+			</p> 
+		</ul>
+                <div style="margin: 30px 0;">
+                    <li><em><b>OVO公告</b></em>：Ctr +D 收藏本页到浏览器收藏夹回家不迷路，手机端请将本页添加到浏览器收藏夹或书签。</li>
+                    <!--<li><em><b>OVO通知</b></em>：【服务器维护中···请稍后重试~】</li>-->
+                    <li><em><b>OVO通知</b></em>：近期部分国产浏览器屏蔽网址，有打不开请安装谷歌浏览器访问~</li>
+                </div>
 
 ## Tube8平台介绍
 
