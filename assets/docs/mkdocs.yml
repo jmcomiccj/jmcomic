@@ -1,6 +1,6 @@
 repo_url: https://github.com
-repo_name: tube8
-site_name: tube8中文日本
+repo_name: www.anquye.com
+site_name: www.anquye.com-主页
 
 theme:
   palette:
@@ -10,15 +10,15 @@ theme:
         name: 切换到浅色主题
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: 切换到深色主题
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: teal
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: 主题跟随系统
@@ -45,7 +45,6 @@ plugins:
             preload_modules:
               - common
             docstring_style: sphinx
-
 
 markdown_extensions:
   - attr_list
